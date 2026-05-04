@@ -67,4 +67,4 @@ Got a data foundation that isn't ready for AI? That's the problem I solve.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-robangeles22-blue)](https://www.linkedin.com/in/robangeles22/)
 [![Website](https://img.shields.io/badge/Website-robertangeles.com-green)](https://www.robertangeles.com)
-[![Email](https://img.shields.io/badge/Email-trebor.selegna@outlook.com-red)](mailto:trebor.selegna@outlook.com)
+[![Email](https://img.shields.io/badge/Email-ran@robertangeles.com-red)](mailto:ran@robertangeles.com)
