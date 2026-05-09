@@ -47,7 +47,7 @@ DevOps       GitHub Actions · Railway · Render · CI/CD
 
 ## 🏢 Consulting
 
-**[Archos Data Studio](https://www.robertangeles.com)** — Legacy Data to AI Readiness for enterprise programs.
+**[Archos Labs](https://www.archoslabs.xyz)** — Legacy Data to AI Readiness for enterprise programs.
 
 Got a data foundation that isn't ready for AI? That's the problem I solve.
 
