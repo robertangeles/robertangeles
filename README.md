@@ -66,5 +66,5 @@ Got a data foundation that isn't ready for AI? That's the problem I solve.
 ## 📫 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-robangeles22-blue)](https://www.linkedin.com/in/robangeles22/)
-[![Website](https://img.shields.io/badge/Website-robertangeles.com-green)](https://www.robertangeles.com)
-[![Email](https://img.shields.io/badge/Email-ran@robertangeles.com-red)](mailto:ran@robertangeles.com)
+[![Website](https://img.shields.io/badge/Website-archoslabs.xyz-green)](https://archoslabs.xyz)
+[![Email](https://img.shields.io/badge/Email-rob.angeles@archoslabs.xyz-red)](mailto:roob.angeles@archoslabs.xyz)
