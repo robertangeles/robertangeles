@@ -17,7 +17,6 @@ Everything I ship starts with a data model and ends with a deployed product.
 | **VITA** | Local AI companion. On-device. Private. Yours. | 🚧 In Progress |
 | **CulinAIre Kitchen Lite** | Offline Android AI culinary assistant. Fine-tuned Gemma 4B. No cloud. No internet. | 🚧 In Progress |
 | **CulinAIre Kitchen** | Culinary Platform for Home Cooks, Chefs, Restaurant Owners, and Culinary Professionals | 🚧 In Progress |
-| **Spresso Data Studio** | Data modelling platform for practitioners who want AI to accelerate their craft, not replace their judgment | 🚧 In Progress |
 
 ---
 
@@ -39,7 +38,7 @@ DevOps       GitHub Actions · Railway · Render · CI/CD
 
 **[The Modelling Room](https://www.linkedin.com/newsletters/)** — where senior data practitioners think out loud about AI, governance, and the work nobody sees.
 
-**[The Translation Layer](https://www.robertangeles.com)** — AI and data strategy for executives.
+**[The Translation Layer](https://archoslabs.xyz/blog)** — AI and data strategy for executives.
 
 **[Github Gists](https://gist.github.com/robertangeles)** - My Github Gists
 
